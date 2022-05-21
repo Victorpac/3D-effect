@@ -22,7 +22,9 @@
 
 /* sm <= Medium (md) */
 @media (max-width : 768px) {
-
+	.showcase-navigation {
+		display: none;
+	}
 }
 
 /* xs <= Small (sm) */
