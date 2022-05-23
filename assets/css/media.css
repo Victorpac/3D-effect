@@ -25,6 +25,14 @@
 	.showcase-navigation {
 		display: none;
 	}
+
+	.showcase-carousel__image-left .showcase-carousel__image {
+		animation-duration: 1.5s;
+	}
+	
+	.showcase-carousel__image-right .showcase-carousel__image {
+		animation-duration: 1.5s;
+	}
 }
 
 /* xs <= Small (sm) */
